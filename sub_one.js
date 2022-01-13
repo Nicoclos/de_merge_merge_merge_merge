@@ -7,7 +7,7 @@ let numbersArray = [
     7
 ]
 
-//exo1.js
+// exo1.js
 
 const calculateSeventeen = (targetNumber, numbersArray) => {
     var found = false;
